@@ -75,12 +75,6 @@
 
     <xsd:documentation>
 
-      Revision History
-
-      Ver           Date            Person          Note
-      ---           ----            ------          ----
-      GAC           01 Sep 2018     S.Chalmers      This is a GAC specific branch of V0600 including Part 9 in DRAFT
-
 
     </xsd:documentation>
   </xsd:annotation>
