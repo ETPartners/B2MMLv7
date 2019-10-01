@@ -84,7 +84,6 @@
   <xsd:complexType name="TransNotifyType" />  
   
   
-   <!-- moved from GAC material -->   
 <xsd:complexType name = "MaterialTestSpecificationType">
     <xsd:sequence>
       <xsd:element   name  = "TestSpecificationType"/>
