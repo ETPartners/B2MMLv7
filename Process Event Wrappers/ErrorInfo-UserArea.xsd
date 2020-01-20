@@ -14,7 +14,7 @@
      
     <xs:complexType name="ErrorMessageType">
         <xs:sequence>
-            <xs:element name="ThrowedFrom" type="xs:string" />
+            <xs:element name="ThrownFrom" type="xs:string" />
             <xs:element name="TimeStamp" type="xs:dateTime"/>
             <xs:element name="ErrorType" type="ext:ErrorTypeType"/>
             <xs:element name="ErrorCode" type="xs:string" minOccurs = "0" />
